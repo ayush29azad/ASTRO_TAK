@@ -31,3 +31,7 @@ font-size: 20px;
 
       }
       
+      .see-all{
+        float: right; 
+        color: orangered;
+      }
