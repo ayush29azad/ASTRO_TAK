@@ -1,56 +1,33 @@
-body{
-   margin-left:20px;
-   margin-top:20px;
-   margin-right:20px;
-   font-size: 8px;
-}
 
-#logo-button
-{
-    background-color: white;
-}
-.card-block {
-    min-height: 200px;
-    
-}
-.main{
-    margin-left: 20px;;
+ body{
+    margin-left:20px;
+    margin-top:20px;
+    margin-right:20px;
+    font-size: 30px;
 }
 
 
+     .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color:rgb(241, 241, 241);
+        color: orangered;
+        text-align: center;
+        font-size: 10px;
+      }
 
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color:rgb(241, 241, 241);
-  color: orangered;
-  text-align: center;
-  font-size: 10px;
-}
+      .experience
+      {
+        display: block;
+        float: right;
+        font-size: 20px;
 
-.experience
-{
-  display: block;
-  float: right;
-  font-size: 20px;
+      }
+      .choose-form option
+      {
+font-size: 20px;
 
-}
-
-.choose-form
-{
-   
-    background-color:rgb(246, 229, 246);
-    padding: 10px;
-
-}
-.choose-form button
-{
-   
-    background-color:#f78336;
-    font-size:small;
-    color:white;
-
-}
-
+      }
+      

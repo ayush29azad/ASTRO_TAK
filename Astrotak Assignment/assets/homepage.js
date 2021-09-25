@@ -30,3 +30,5 @@ document.addEventListener("DOMContentLoaded", async () => {
           var selected = select[select.selectedIndex]
           priceEl.innerText = typeof selected.data != "undefined" ? selected.data.price:""
       }
+
+      
