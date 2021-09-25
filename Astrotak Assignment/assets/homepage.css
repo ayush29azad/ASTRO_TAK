@@ -35,3 +35,36 @@ font-size: 20px;
         float: right; 
         color: orangered;
       }
+
+
+.choose-form
+{
+   
+    background-color:rgb(246, 229, 246);
+    padding: 10px;
+
+}
+.orange
+{
+    background-color:#f78336;
+    font-size:30px;
+    color:white;
+
+}
+ button
+{
+   
+    background-color:#f78336;
+    font-size:30px;
+    color:white;
+
+}
+
+}
+
+option{
+    font-size: 50px;
+}
+
+
+
